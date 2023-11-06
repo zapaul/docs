@@ -76,11 +76,12 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Contribution Program',
+      label: 'Community Contributions',
       items: [
         "contribution-introduction",
         "contribution-guidelines",
-        "contribution-submission",
+        "contribution-guides",
+        "contribution-blogs",
         "contribution-rewards"
       ]
     },
