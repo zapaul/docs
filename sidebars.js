@@ -95,12 +95,34 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Contribution Program',
+      label: 'Community Contributions',
       items: [
         "contribution-introduction",
-        "contribution-guidelines",
-        "contribution-submission",
-        "contribution-rewards"
+        "contribution-rewards",
+        {
+          type: "category",
+          label: "Guides",
+          items: [
+            "contribution-guides",
+            "contribution-guidelines"
+          ]
+        },
+        {
+          type: "category",
+          label: "Blogs",
+          items: [
+            "contribution-blogs",
+            "contribution-blogs-guidelines"
+          ]
+        },
+        {
+          type: "category",
+          label: "Translations",
+          items: [
+            "contribution-translations",
+            ""
+          ]
+        },
       ]
     },
   ],

@@ -5,9 +5,9 @@ Are you interested in improving the docs? Check out the appropriate sections bel
 
 ## ZAP-Hosting Contribution Program
 
-![Main Banner](https://github.com/zaphosting/docs/assets/42719082/4f52bc8b-4174-4ada-8ed3-f4e49a301920)
+![Contribution Program Guides & Blogs](https://github.com/zaphosting/docs/assets/42719082/56c0d6e1-75f9-4dec-825b-64c562eccabe)
 
-The contribution program is accessible to anyone who wants to share their **knowledge** and **experience** with the community! We actively look for dedicated writers who have **strong technical skills** and are **knowledgeable** in the respective field.  Most importantly, we look for writers who are dedicated and are happy in **collaborating** with our ZAP-Hosting Docs Team to improve and revise their content prior to publishing. :pencil2::speaking_head:
+The contribution program is accessible to anyone who wants to share their **knowledge** and **experience** with the community! We actively look for dedicated writers who have **strong technical skills** and are **knowledgeable** in the respective field.  Most importantly, we look for writers who are dedicated and are happy in **collaborating** with our ZAP-Hosting Docs Team to improve and revise their content prior to publishing. ✏️ 🗣️
 
 **Contribute now. Get rewarded.** Head over to the [Contribution Program](https://zap-hosting.com/guides/docs/contribution-introduction) section of our documentation to learn more! 🚀
 

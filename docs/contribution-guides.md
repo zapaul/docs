@@ -1,38 +1,56 @@
 ---
-id: contribution-submission
-title: Submission Process
-description: Information on the submission process for the ZAP-Hosting docs contribution program - ZAP-Hosting.com documentation
-sidebar_label: Submission
+id: contribution-guides
+title: Guides Process
+description: Information on the guides (ZAP-Docs) contribution process for the ZAP-Hosting Community Contributions program - ZAP-Hosting.com documentation
+sidebar_label: Guides Process
 ---
 
-Learn more about the process for contributing to our documentation on this page, following in chronological order.
+![Guides Banner](https://github.com/zaphosting/docs/assets/42719082/602e58e7-f5bd-4fbb-93ac-daad72e58cfb)
 
-## Suggesting Content
-The first part of the process involves creating a suggestion issue via our repository. You must provide us with details about the changes and improvements that you plan to produce. Please ensure that your idea is not a duplicate of any existing docs pages and which you believe will be useful for beginners or more advanced users.
+Learn more about the process for contributing to our ZAP-Docs on this page. The process is written in chronological order throughout this page, thus we recommend beginning from here.
+
+## Step 1: Suggesting Content
+
+The first part of the process involves creating a suggestion issue via our GitHub repository. You must provide us with details about the changes and improvements that you plan to produce.
+
+Please ensure that your idea is not a duplicate of any existing guide or suggestion and which you deeply believe will be useful for beginners or more advanced users. You can view exising suggestions by heading over to the [Issues Page](https://github.com/zaphosting/docs/issues?q=is%3Aissue).
 
 :::tip
-Use our guidelines page to understand the content and documentation style that we are looking for.
+We recommend reviewing our [Guidelines Page](contribution-guidelines.md) to understand the content and documentation style that we are persuing.
 :::
 
 ### What topics are we looking for?
-For our contribution program, we look for a wide range of practical and high-quality guides covering products, services and open-source software that is available through ZAP-Hosting or relates to any service that we offer. If you need some ideas or inspiration, check out our pages across our documentation to get a feel for our writing style and the type of content that we publish.
+
+In our guides, we look for a wide range of practical and high-quality guides covering products, services and open-source software that is available through ZAP-Hosting or relates to any service that we offer. If you need some ideas or inspiration, check out our pages across our ZAP-Docs to get a feel for our writing style and the type of content that we publish.
 
 As mentioned in the introduction, all content that is produced must be original in order to comply with copyright laws. Our guides aim to provide high-quality information through a series of steps to ensure that the reader understands what they are doing and how they can do it with an end goal of educating the reader and providing them with the solution.
 
+#### Wanted Guides List
+
+We have a useful list of great suggestions below, for new guides that you may be interested in writing. Certain guide topics and suggestions may even have an extra reward bonus.
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRACoNJMjk3rcWyo6LDt8WCvtqB17JpdjsPW3YHpLaZJgfPxGlt4pDEnD1ezOwGW1eljWZYPSyfgrb3/pub?embedded=true"></iframe>
+
+:::note
+Keep in mind, these are only useful ideas, you **do not** have to stricly write about these, your guide suggestions can be creative as mentioned previously.
+:::
+
 ### Submitting suggestion
+
 Now that you are are confident that your suggestion is appropriate for our documentation, please head over to our [ZAP Docs GitHub repository](https://github.com/zaphosting/docs) and open a issue using the "Contribution Suggestion" template. Please follow the template that is provided and ensure that you fill in all necessary details. You will also be requested to confirm that you accept our Terms & Conditions for the Contribution Program, which can be [accessed here](https://zap-hosting.com/guides/docs/contribution-terms). Once you have submitted, we aim to get back to you within a few days.
 
 :::caution
 Please ensure that you fill in your ZAP ID correctly to ensure you receive your reward to the correct account!
 :::
 
-Once we approve your suggestion, your change will qualify for the contribution program and we will send you a contract to sign which will let us publish your work! Otherwise if there is an issue, we will follow up with you and let you know any proposed changes that we would like in order to accept your suggestion.
+Once we approve your suggestion, your change will qualify for the contribution program and you will be able to begin completing your guide. Otherwise if there is an issue, we will follow up with you and let you know of any proposed changes that we would like in order to accept your suggestion.
 
-## Producing content
-When performing any contribution to our documentation, please keep in mind to follow our contribution guidelines thoroughly to ensure consistency and a high-quality end product. In this sub-section we will dive deep into best practices and the optimal workflow for creating new content, but also for modifying existing content. If you are new to using GitHub, please use these brief tutorials below to understand the easiest way to edit or create new content for our documentation site.
+## Step 2: Writing Guide
+
+When performing any additions or changes to our documentation, please ensure that you follow our [Contribution Guidelines](contribution-guidelines.md) thoroughly to ensure consistency and a high-quality end product. In this sub-section we will dive deep into best practices and the optimal workflow for creating new content, but also for modifying existing content. If you are new to using GitHub, please use these brief tutorials below to understand the easiest way to edit or create new content for our ZAP-Docs.
 
 :::note
-Ensure that you have suggested your content and that it has been approved before attempting to produce changes, otherwise we cannot guarantee a reward because the idea has not been approved.
+Ensure that you have created a suggestion on our [GitHub Repository](https://github.com/zaphosting/docs) and that this has been approved by one of our ZAP Contribution Team members before proceeding to work on a new guide or changes. We will not be able to guarantee a reward if you haven't followed the process as it has not been approved.
 :::
 
 **Prerequisites:**
@@ -47,6 +65,7 @@ You should name the repository based on the suggestion that was accepted and tic
 Now you can head over to the next section to create or edit content. For more advanced users, creating locally may make more sense as you can test it easily and on-the-go.
 
 ### Creating locally via editor
+
 The recommended way to **create new content** is to do so through locally via an editor such as Visual Studio Code. In this section, we will show you how to create a new guide locally through an editor.
 
 **Prerequisites:**
@@ -94,6 +113,7 @@ We highly suggest that you also read the **Testing build locally** section, as y
 Once you are finished with the changes to your new guide, the last step of the entire process is to push a commit to your fork repository and submit a Pull Request. You can create a commit through the GitHub Desktop by adding an appropriate title and description and pushing via the top button. Likewise, you can do this directly through Visual Studio Code if you prefer. You may now head over to the **Submit Content** section to create a Pull Request to submit the content to the main documentation repository.
 
 ### Editing via GitHub website
+
 The easiest and recommended way to **edit existing content** is doing so through the GitHub website. In this section, we will show you how to edit existing guides through the GitHub website.
 
 To begin, head over to the Fork that you have created in the previous step. Once you are on your ZAP Docs fork, you can access all of the documentation guides through the **docs** folder.
@@ -125,6 +145,7 @@ Once you have performed your changes, use the **Commit changes...** button which
 Enter a useful commit message which explains what you have done and an extended description where appropriate. Finally, commit the changes. This will commit it to your fork of the docs. You may now head over to the **Submit Content** section to create a Pull Request to submit the content to the main documentation repository.
 
 ### Testing build locally
+
 Before creating the final Pull Request, it is a best practice to locally build and test out the documentation to ensure everything is working correctly with the changes that you have made. We highly recommend that you test your changes locally to ensure that your Pull Request is processed swiftly.
 
 :::note
@@ -158,7 +179,8 @@ Once this is complete, a local version of the website should automatically open 
 
 Once you are satisfied with your changes, you may now head over to the next section to create a Pull Request to submit the content to the main documentation repository.
 
-### Submitting Content
+## Step 3: Submitting Content
+
 Once you have done your necessary contributions which you believe follow our guidelines closely and is of the highest standard, you may create a Pull Request. You can do this by heading over to your own fork of the ZAP Docs repository, pressing the **Contribute** text found below the primary buttons and opening a pull request.
 
 ![image](https://github.com/zaphosting/docs/assets/42719082/d08ce65e-2c21-4110-97d4-a15588172db4)
@@ -169,4 +191,16 @@ Once you have populated the title, description and ensured that the changes are 
 
 ![image](https://github.com/zaphosting/docs/assets/42719082/fc04a359-bffc-459b-89fd-94eee74e4a71)
 
-Our system will ensure that your changes pass range of syntax and quality checks. If both of these checks pass successfully, your Pull Request will finally be reviewed by the ZAP-Hosting docs team within a couple of days. We may ask you to produce a few changes where we feel necessary, but once this is approved, your change will be ready to publish and you will receive your reward.
+Our system will ensure that your changes pass range of syntax and quality checks. If both of these checks pass successfully, your Pull Request will finally be reviewed by the ZAP-Hosting docs team within a couple of days. 
+
+Upon review of your Pull Request, we may ask you to produce a few changes which we feel are necessary. We may also do some changes ourselves where we believe it is appropriatet. Once any additional changes are completed, we will approve your change so that it is ready to be published.
+
+## Step 4: Publish guide changes & reward payment
+
+Once we finally accept your Pull Request after any completing any requested changes, we will reply to your Pull Request and let you know about key details regarding this. This includes providing information about publishing your guide changes, as well as your reward payment for completing your guide changes successfully.
+
+:::info
+The reward for this type of contribution will depend on a couple of factors, most notably the quality and scale of content written, alongside other criteria which are evaluated by the ZAP Contribution Team.
+:::
+
+Congratulations for contributing to our ZAP-Hosting Guides! We appreciate all contributions! 💚

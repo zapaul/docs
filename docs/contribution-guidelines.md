@@ -1,13 +1,15 @@
 ---
 id: contribution-guidelines
-title: Contribution Guidelines
-description: Guidelines for the ZAP-Hosting docs contribution program - ZAP-Hosting.com documentation
+title: Guide Guidelines
+description: Guidelines for the Guides section of the ZAP-Hosting Contribution Program - ZAP-Hosting.com documentation
 sidebar_label: Guidelines
 ---
 
+![Guides Banner](https://github.com/zaphosting/docs/assets/42719082/602e58e7-f5bd-4fbb-93ac-daad72e58cfb)
+
 In order to ensure that ZAP-Hosting documentation pages are consistent in quality and style, we have created a range of guidelines to use when creating or editing content for our documentation. You must follow our guidelines closely to ensure that your suggestion and final pull request are processed swiftly. More importantly, this will ensure that our readers will have a better and more consistent high-quality experience whilst reading and following along with the guides.
 
-Our contribution guidelines can be split into a few major sections, which are:
+Our guides contribution guidelines can be split into a few major sections, which are:
 
 - Structure
 - Style
