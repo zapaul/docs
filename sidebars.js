@@ -811,6 +811,20 @@ const sidebars = {
     },
     {
       type: "category",
+      label: "Project Zomboid",
+      items: [
+        {
+          type: "category",
+          label: "First Steps",
+          items: [
+            'pathoftitans-firststeps-dashboard',
+            'pathoftitans-becomeadmin',
+          ]
+        }
+      ],
+    },
+    {
+      type: "category",
       label: "RageMP",
       items: [
         "ragemp-installpackages"

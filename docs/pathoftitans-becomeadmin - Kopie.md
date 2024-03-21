@@ -7,19 +7,19 @@ sidebar_label: Become admin
 
 
 
-## Introduction
+## Einführung
 
 Möchtest du mehr Kontrolle über deinen Server haben? Als Admin hast du die Möglichkeit, noch mehr Anpassungen vorzunehmen oder deinen Server im Spiel zu verwalten. Im Folgenden erklären wir, wie du dich als Admin registrieren und Berechtigungen im Spiel hinzufügen kannst.
 
 
 
-## Preparation
+## Vorbereitung
 
 Die Konfiguration der Admin-Berechtigungen erfolgt über die Konfigurationsdateien deines Servers. Navigiere dafür in deinem Gameserver Dashboard zu **Configs** und öffne die Game.ini Konfigurationsdatei. 
 
 
 
-## Configuration
+## Konfiguration
 
 Unter dem Abschnitt[/Script/PathOfTitans.IGameSession] muss die Alderon Games ID (AGID) des Admins hinterlegt werden. Der Eintrag dafür lautet `Server-Admins=` gefolgt mit der AGID. Wenn du mehrere Admins hinzufügen möchtest, dann musst du diese jeweils in einer neuen Zeile anlegen. Nehmen wir an, dass du insgesamt drei Spieler Adminberechtigungen zuweisen möchtest, dann würde die Konfiguration dafür wie folgt aussehen:
 
